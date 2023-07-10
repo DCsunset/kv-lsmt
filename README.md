@@ -1,6 +1,6 @@
 # KV store based on LSM Tree
 
-This project implements a KV store based on LSM Tree.
+This project implements a KV store inspired by LSM Tree.
 
 ## Design
 
